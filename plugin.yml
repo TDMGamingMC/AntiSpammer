@@ -1,5 +1,6 @@
 name: AntiSpammer
 main: MCPH\AntiSpammer\Main
+api: [1.12.0]
 version: 1.0
 author: MinecrafterPH
 description: Kicks players when they spam.
